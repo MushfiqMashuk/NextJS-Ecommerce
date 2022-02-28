@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "categoryName": "groceries"
+  },
+  {
+    "id": 2,
+    "categoryName": "dairy"
+  },
+  {
+    "id": 3,
+    "categoryName": "frozen_items"
+  },
+  {
+    "id": 4,
+    "categoryName": "fruits&Vegetable"
+  }
+]

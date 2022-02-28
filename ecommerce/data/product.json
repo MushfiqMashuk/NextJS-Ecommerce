@@ -1,0 +1,367 @@
+[
+    {
+        "id": 1,
+        "categoryID": 1,
+        "productName": "Suger",
+        "productPrice": 130,
+        "rating": 4,
+        "stock": 30,
+        "imgUrl": "",
+        "discount": [
+            {
+                "type": "percentage",
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "categoryID": 1,
+        "productName": "Tea",
+        "productPrice": 155,
+        "rating": 3,
+        "stock": 55,
+        "imgUrl": "",
+        "discount": [
+            {
+                "type": "flat",
+                "amount": 20
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "categoryID": 1,
+        "productName": "Pasta",
+        "productPrice": 90,
+        "rating": 4,
+        "stock": 0,
+        "imgUrl": "",
+        "discount": []
+    },
+    {
+        "id": 4,
+        "categoryID": 1,
+        "productName": "Noodles",
+        "productPrice": 140,
+        "rating": 3,
+        "stock": 20,
+        "imgUrl": "",
+        "discount": [
+            {
+                "type": "flat",
+                "amount": 15
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "categoryID": 2,
+        "productName": "Milk",
+        "productPrice": 75,
+        "rating": 5,
+        "stock": 0,
+        "imgUrl": "",
+        "discount": []
+    },
+    {
+        "id": 6,
+        "categoryID": 2,
+        "productName": "Butter",
+        "productPrice": 165,
+        "rating": 2,
+        "stock": 12,
+        "imgUrl": "",
+        "discount": []
+    },
+    {
+        "id": 7,
+        "categoryID": 2,
+        "productName": "Cheese",
+        "productPrice": 290,
+        "rating": 3,
+        "stock": 51,
+        "imgUrl": "",
+        "discount": []
+    },
+    {
+        "id": 8,
+        "categoryID": 3,
+        "productName": "French Fries",
+        "productPrice": 105,
+        "rating": 2,
+        "stock": 0,
+        "imgUrl": "",
+        "discount": [
+            {
+                "type": "percentage",
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "categoryID": 3,
+        "productName": "Frozen Paratha",
+        "productPrice": 145,
+        "rating": 1,
+        "stock": 19,
+        "imgUrl": "",
+        "discount": []
+    },
+    {
+        "id": 10,
+        "categoryID": 3,
+        "productName": "Frozen Spring Roll",
+        "productPrice": 185,
+        "rating": 5,
+        "stock": 14,
+        "imgUrl": "",
+        "discount": []
+    },
+    {
+        "id": 11,
+        "categoryID": 3,
+        "productName": "Frozen Chicken",
+        "productPrice": 365,
+        "rating": 5,
+        "stock": 0,
+        "imgUrl": "",
+        "discount": [
+            {
+                "type": "percentage",
+                "amount": 15
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "categoryID": 4,
+        "productName": "Cauliflower",
+        "productPrice": 40,
+        "rating": 3,
+        "stock": 16,
+        "imgUrl": "",
+        "discount": []
+    },
+    {
+        "id": 13,
+        "categoryID": 4,
+        "productName": "Potato",
+        "productPrice": 15,
+        "rating": 4,
+        "stock": 0,
+        "imgUrl": "",
+        "discount": []
+    },
+    {
+        "id": 14,
+        "categoryID": 4,
+        "productName": "Eggplant",
+        "productPrice": 60,
+        "rating": 4,
+        "stock": 74,
+        "imgUrl": "",
+        "discount": []
+    },
+    {
+        "id": 15,
+        "categoryID": 4,
+        "productName": "Apple",
+        "productPrice": 135,
+        "rating": 5,
+        "stock": 16,
+        "imgUrl": "",
+        "discount": []
+    },
+    {
+        "id": 16,
+        "categoryID": 1,
+        "productName": "Salt",
+        "productPrice": 35,
+        "rating": 5,
+        "stock": 0,
+        "imgUrl": "",
+        "discount": []
+    },
+    {
+        "id": 17,
+        "categoryID": 1,
+        "productName": "Soybean Oil",
+        "productPrice": 190,
+        "rating": 3,
+        "stock": 59,
+        "imgUrl": "",
+        "discount": [
+            {
+                "type": "percentage",
+                "amount": 20
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "categoryID": 1,
+        "productName": "Pran Tomato Sauce",
+        "productPrice": 75,
+        "rating": 3,
+        "stock": 0,
+        "imgUrl": "",
+        "discount": []
+    },
+    {
+        "id": 19,
+        "categoryID": 1,
+        "productName": "BD Vinegar",
+        "productPrice": 90,
+        "rating": 1,
+        "stock": 13,
+        "imgUrl": "",
+        "discount": []
+    },
+    {
+        "id": 20,
+        "categoryID": 2,
+        "productName": "Yogurt",
+        "productPrice": 120,
+        "rating": 5,
+        "stock": 15,
+        "imgUrl": "",
+        "discount": [
+            {
+                "type": "percentage",
+                "amount": 5
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "categoryID": 2,
+        "productName": "Cream",
+        "productPrice": 245,
+        "rating": 3,
+        "stock": 0,
+        "imgUrl": "",
+        "discount": [
+            {
+                "type": "flat",
+                "amount": 45
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "categoryID": 3,
+        "productName": "Frozen Seekh Kabab",
+        "productPrice": 180,
+        "rating": 2,
+        "stock": 15,
+        "imgUrl": "",
+        "discount": [
+            {
+                "type": "percentage",
+                "amount": 15
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "categoryID": 3,
+        "productName": "Frozen prawn",
+        "productPrice": 650,
+        "rating": 1,
+        "stock": 45,
+        "imgUrl": "",
+        "discount": [
+            {
+                "type": "flat",
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "categoryID": 3,
+        "productName": "frozen samusa",
+        "productPrice": 90,
+        "rating": 3,
+        "stock": 0,
+        "imgUrl": "",
+        "discount": [
+            {
+                "type": "percentage",
+                "amount": 5
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "categoryID": 3,
+        "productName": "Frozen meatball",
+        "productPrice": 100,
+        "rating": 1,
+        "stock": 20,
+        "imgUrl": "",
+        "discount": []
+    },
+    {
+        "id": 26,
+        "categoryID": 4,
+        "productName": "Orange",
+        "productPrice": 135,
+        "rating": 4,
+        "stock": 12,
+        "imgUrl": "",
+        "discount": []
+    },
+    {
+        "id": 27,
+        "categoryID": 4,
+        "productName": "Pineapple",
+        "productPrice": 120,
+        "rating": 5,
+        "stock": 0,
+        "imgUrl": "",
+        "discount": []
+    },
+    {
+        "id": 28,
+        "categoryID": 4,
+        "productName": "chilli",
+        "productPrice": 60,
+        "rating": 2,
+        "stock": 2,
+        "imgUrl": "",
+        "discount": []
+    },
+    {
+        "id": 29,
+        "categoryID": 1,
+        "productName": "Closeup Toothpaste",
+        "productPrice": 95,
+        "rating": 5,
+        "stock": 0,
+        "imgUrl": "",
+        "discount": [
+            {
+                "type": "flat",
+                "amount": 20
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "categoryID": 1,
+        "productName": "Sunsilk Shampoo",
+        "productPrice": 350,
+        "rating": 2,
+        "stock": 12,
+        "imgUrl": "",
+        "discount": [
+            {
+                "type": "percentage",
+                "amount": 10
+            }
+        ]
+    }
+]

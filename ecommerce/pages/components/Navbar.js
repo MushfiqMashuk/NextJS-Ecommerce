@@ -1,3 +1,5 @@
+import { Badge } from "@material-ui/core";
+import { ShoppingCartOutlined } from "@material-ui/icons";
 import Link from "next/link";
 import React from "react";
 import styles from "../../styles/Navbar.module.css";
@@ -19,6 +21,12 @@ function Navbar() {
         <Link href="/blog">
           <a>Blog</a>
         </Link>
+
+        <Badge color="secondary" badgeContent={3}>
+          <ShoppingCartOutlined />
+        </Badge>
+
+        <button className={styles.button}>Login</button>
       </div>
     </>
   );
